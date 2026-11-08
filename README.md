@@ -34,3 +34,15 @@ Welcome to my profile! I love building visual things.
 ## 📊 Project Quick Links
 * 📂 [View My Repositories](https://github.com)
 * 📈 [View My Contribution Activity](https://github.com)
+
+* ---
+
+## 📬 Contact Me
+
+If you would like to collaborate on a visual project, chat about development, or connect professionally, feel free to reach out!
+
+* 🟩 **Email:** <span style="color: #52B788;">jenkinsms [at] protonmail [dot] com</span> *(Replace with your email format to stop spam bots)*
+* 🟦 **LinkedIn:** [Connect with me on LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/shaunjenkins/))
+* 🗂️ **GitHub Projects:** <span style="color: #00C49F;">Open an issue on any of my public repositories</span>
+* 🍊 **Availability:** <span style="color: #D66836;">Open to open-source collaboration and networking</span>
+
