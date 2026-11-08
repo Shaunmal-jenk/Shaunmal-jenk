@@ -1,6 +1,6 @@
-# 🌟 Hi there, I'm Shaun!
+# I'm Shaun 🌟
 
-Welcome to my profile! I love building visual things.
+Welcome to my profile! I'm not a coder but I love building visual things using AI
 
 ---
 
