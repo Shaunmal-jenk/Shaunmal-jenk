@@ -6,24 +6,24 @@ Welcome to my profile! I love building visual things.
 
 ## 🧠 About Me
 
-- 🗺️ **Based in:** Ballito, South Africa
-- ⚡ **Fun Fact:** I prefer visual flowcharts over text documentation!
+- 🗺️ **Based in:** <span style="color: #52B788;">Ballito, South Africa</span>
+- ⚡ **Fun Fact:** <span style="color: #3A86FF;">I prefer visual flowcharts over text documentation!</span>
 
 ---
 
 ## 🚀 My Tech Stack
 
 ### 💻 Frontend & Languages
-* 🟥 **HTML5** — Structuring web pages
-* 🟦 **CSS3** — Styling and layouts
-* 🟨 **JavaScript** — Interactive logic
-* ⚛️ **React** — UI components
+* 🟥 **<kbd>HTML5</kbd>** — <span style="color: #D66836;">Structuring web pages</span>
+* 🟦 **<kbd>CSS3</kbd>** — <span style="color: #3A86FF;">Styling and layouts</span>
+* 🟨 **<kbd>JavaScript</kbd>** — <span style="color: #00C49F;">Interactive logic</span>
+* ⚛️ **<kbd>React</kbd>** — <span style="color: #52B788;">UI component structures</span>
 
 ### ⚙️ Backend & Tools
-* 🟩 **Node.js** — Server-side JavaScript
-* 🐍 **Python** — Automation & backend script logic
-* 🔀 **Git** — Version control tracking
-* 📘 **VS Code** — Code editing environment
+* 🟩 **<kbd>Node.js</kbd>** — <span style="color: #52B788;">Server-side execution</span>
+* 🐍 **<kbd>Python</kbd>** — <span style="color: #00C49F;">Automation & script logic</span>
+* 🔀 **<kbd>Git</kbd>** — <span style="color: #D66836;">Version control tracking</span>
+* 📘 **<kbd>VS Code</kbd>** — <span style="color: #3A86FF;">Code editing environment</span>
 
 ---
 
