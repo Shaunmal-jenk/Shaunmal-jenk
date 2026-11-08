@@ -1,4 +1,4 @@
-# 🌟 Hi there, I'm Shaun!
+# I'm Shaun 🌟
 
 Welcome to my profile! I love building visual things.
 
