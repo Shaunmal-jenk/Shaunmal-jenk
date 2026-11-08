@@ -14,16 +14,16 @@ Welcome to my profile! I love building visual things.
 ## 🚀 My Tech Stack
 
 ### 💻 Frontend & Languages
-* 🟥 **<kbd>HTML5</kbd>** — <span style="color: #D66836;">Structuring web pages</span>
-* 🟦 **<kbd>CSS3</kbd>** — <span style="color: #3A86FF;">Styling and layouts</span>
-* 🟨 **<kbd>JavaScript</kbd>** — <span style="color: #00C49F;">Interactive logic</span>
-* ⚛️ **<kbd>React</kbd>** — <span style="color: #52B788;">UI component structures</span>
+* 🟥 <span style="color: #D66836;">**HTML5**</span> — Structuring web pages
+* 🟦 <span style="color: #3A86FF;">**CSS3**</span> — Styling and layouts
+* 🟨 <span style="color: #00C49F;">**JavaScript**</span> — Interactive logic
+* ⚛️ <span style="color: #52B788;">**React**</span> — UI component structures
 
 ### ⚙️ Backend & Tools
-* 🟩 **<kbd>Node.js</kbd>** — <span style="color: #52B788;">Server-side execution</span>
-* 🐍 **<kbd>Python</kbd>** — <span style="color: #00C49F;">Automation & script logic</span>
-* 🔀 **<kbd>Git</kbd>** — <span style="color: #D66836;">Version control tracking</span>
-* 📘 **<kbd>VS Code</kbd>** — <span style="color: #3A86FF;">Code editing environment</span>
+* 🟩 <span style="color: #52B788;">**Node.js**</span> — Server-side execution
+* 🐍 <span style="color: #00C49F;">**Python**</span> — Automation & script logic
+* 🔀 <span style="color: #D66836;">**Git**</span> — Version control tracking
+* 📘 <span style="color: #3A86FF;">**VS Code**</span> — Code editing environment
 
 ---
 
