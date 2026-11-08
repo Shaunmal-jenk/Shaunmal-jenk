@@ -1,7 +1,6 @@
 # 🌟 Hi there, I'm Shaun!
 
-<!-- VISUAL ACCENT LINE -->
-![Welcome](https://demolab.com.)
+Welcome to my profile! I love building visual things.
 
 ---
 
@@ -15,15 +14,19 @@
 ## 🚀 My Tech Stack
 
 ### 💻 Frontend & Languages
-![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io)
+* 🟥 **HTML5** — Structuring web pages
+* 🟦 **CSS3** — Styling and layouts
+* 🟨 **JavaScript** — Interactive logic
+* ⚛️ **React** — UI components
 
 ### ⚙️ Backend & Tools
-![NodeJS](https://shields.io) ![Python](https://shields.io) ![Git](https://shields.io) ![VS Code](https://shields.io)
+* 🟩 **Node.js** — Server-side JavaScript
+* 🐍 **Python** — Automation & backend script logic
+* 🔀 **Git** — Version control tracking
+* 📘 **VS Code** — Code editing environment
 
 ---
 
-## 📊 My GitHub Stats
-
-![GitHub Stats](https://vercel.app) 
-
-![Top Languages](https://vercel.app)
+## 📊 Project Quick Links
+* 📂 [View My Repositories](https://github.com)
+* 📈 [View My Contribution Activity](https://github.com)
